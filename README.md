@@ -1,8 +1,8 @@
 # open-neutral-mesh-file-formats #
 
-Initiative to define several basic neutral file formats to facilitate 
+This project is an initiative to define several basic neutral file formats to facilitate 
 exchange of meshes (as in FEM) between different SW packages.
 
 This is work in progress.
 
-Check wiki for more details.
+Check [wiki](https://github.com/DmitrySemikin/open-neutral-mesh-file-formats/wiki) for more details.
