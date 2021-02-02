@@ -7,5 +7,5 @@ This is work in progress.
 
 Check [wiki](https://github.com/DmitrySemikin/open-neutral-mesh-file-formats/wiki) for more details.
 
-Don't hesitate to use [discussiins](https://github.com/DmitrySemikin/open-neutral-mesh-file-formats/discussions)
+Don't hesitate to use [discussions](https://github.com/DmitrySemikin/open-neutral-mesh-file-formats/discussions)
 to ask questiins or to suggest new ideas.
